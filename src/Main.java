@@ -6,6 +6,6 @@ public class Main {
         
         bonus = price / value;
 
-        System.out.println(bonus);
+        System.out.println("Начислено миль: " + bonus);
     }
 }
